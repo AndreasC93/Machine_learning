@@ -30,10 +30,10 @@ Questions/Answers
 Questions/Answers
 
 1. Which model had the best balanced accuracy score?
-   Random Forest Classifier: 0.6569659094662335, Easy Ensemble Classifier: 0.6994564899809197. Based on these accuracy scores the Easy Ensemble model had the best balanced accuracy score.
+   Random Forest Classifier: 0.6569659094662335, Easy Ensemble Classifier: 0.6994564899809197. Based on these accuracy scores the Easy Ensemble model had the best balanced accuracy score 0.6994564899809197.
 2. Which model had the best recall score?
-   Random Forest Classifier:  1.00, Easy Ensemble Classifier: 0.80. Based on these recall scores the Random Forest model had the best recall score.
+   Random Forest Classifier:  1.00, Easy Ensemble Classifier: 0.80. Based on these recall scores the Random Forest model had the best recall score 1.00.
 3. Which model had the best geometric mean score?
-   Random Forest Classifier:  0.56, Easy Ensemble Classifier: 0.69. Based on these geometric mean scores the Easy Ensemble model had the best score.
+   Random Forest Classifier:  0.56, Easy Ensemble Classifier: 0.69. Based on these geometric mean scores the Easy Ensemble model had the best score 0.69.
 4. What are the top three features?
    The top three features are: (0.08301006201890893, 'total_pymnt'), (0.07945232463258912, 'out_prncp_inv'), (0.07749574978451985, 'total_rec_late_fee').
